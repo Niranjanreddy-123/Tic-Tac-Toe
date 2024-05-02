@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 Run a training session using a specified learning algorithm:
 
 ```console
-cd TicTacToe 
+cd Tic-Tac-Toe 
 python train.py -a "policy_gradient"
 python train.py -a "deep_q_learning"
 ```
